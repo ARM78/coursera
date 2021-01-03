@@ -1,0 +1,130 @@
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      } 
+
+ @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+
+        }
+        .vIM{
+      visibility: hidden;
+     
+        }
+        .col-md-6,.col-md-12{float: left;border: 1px;}
+        .col-md-6{width: 49%;}
+        .col-md-12{width: 98.5%;}
+        .pYellow{
+        
+          right: auto;
+            margin-left: auto;
+          text-align: center !important;
+          display: block;
+          padding: 0%;
+          margin:-5% 0% 0% 0%;
+        }
+  
+       }
+
+		
+ @media (max-width: 767px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+
+        }
+        .vIM{
+     
+      text-align: center;
+      align-items: center;
+      }
+      .col-sm-12{float: left;border: 1px;}
+      .col-sm-12{width: 100%;margin: 20px;padding:20px;}
+      .pYellow{
+      
+        right: auto;
+          margin-left: auto;
+        text-align: center !important;
+        display: block;
+        padding: 0%;
+        margin:-5% 0% 0% 0%;
+      }
+    }
+	
+.graycolor{
+  background-color: gray;
+}
+
+.whitecolor{
+  background-color: white;
+  
+
+}
+.blacktext{
+ 
+  color: black;
+  
+}
+/*
+@media (min-width: 1200px){
+  .col-lg-4{float: left;border: 1px;}
+  .col-lg-4{width: 32%;}
+  .pYellow{
+  
+    right: auto;
+      margin-left: auto;
+    text-align: center !important;
+    display: block;
+    padding: 0%;
+    margin:-2% 0% 0% 0%;
+  }
+}
+@media (min-width: 769px) and (max-width: 1199px){
+  .col-md-6,.col-md-12{float: left;border: 1px;}
+  .col-md-6{width: 49%;}
+  .col-md-12{width: 98.5%;}
+  .pYellow{
+  
+    right: auto;
+      margin-left: auto;
+    text-align: center !important;
+    display: block;
+    padding: 0%;
+    margin:-2% 0% 0% 0%;
+  }
+  
+}
+@media (max-width: 768px){
+  .col-sm-12{float: left;border: 1px;}
+  .col-sm-12{width: 100%;margin: 20px;padding:20px;}
+  .pYellow{
+  
+    right: auto;
+      margin-left: auto;
+    text-align: center !important;
+    display: block;
+    padding: 0%;
+    margin:-5% 0% 0% 0%;
+  
+  
+  }
+
+  */
+}
+.divGray{
+ background-color: gray;
+  position: relative;
+  color: #000000; 
+  margin:3px;
+  padding:25px 4px 10px 4px;
+  border: 1px black solid;
+}
+#header2{
+  text-align: center !important;
+  padding: 20px;
+  display: block;
+}
